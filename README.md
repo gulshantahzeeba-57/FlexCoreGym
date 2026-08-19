@@ -1,5 +1,5 @@
 ## FlexCoreGym
-## ❤️ Preview
+## Preview
 
    Home   
  
@@ -37,7 +37,7 @@
 
 ---
 
-## ❤️ Mobile Preview
+## Mobile Preview
 
    Home   
  
