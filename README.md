@@ -9,8 +9,8 @@
  
    ![Blog](images/Cart.png)    
 
-   Check Out   
- 
+   Check Out  
+   
    ![About](images/Checkout.png)   
    My Account   
  
